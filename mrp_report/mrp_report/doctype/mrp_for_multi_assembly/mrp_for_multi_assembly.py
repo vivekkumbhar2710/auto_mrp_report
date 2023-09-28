@@ -1,5 +1,5 @@
 # Copyright (c) 2023, Vivek.kumbhar@erpdata.in 
-# For license information, please see license.txt
+# For license information, please see license.txt ccccc
 
 import frappe
 from frappe.model.document import Document
